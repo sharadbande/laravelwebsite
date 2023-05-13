@@ -48,7 +48,7 @@
         <div class="section-1-main">
             <div class="section-1-content">
                 <h1 class="section-1-title">Host your website in less than 5 minutes.</h1>
-                <p class="section-1-desc">With Hosterr, get your website up and running in no less than 5 minutes with the most competitive pricing packages available online.</p>
+                <p class="section-1-desc">With LaraWeb, get your website up and running in no less than 5 minutes with the most competitive pricing packages available online.</p>
                 <form class="section-1-form">
                     <input type="email" placeholder="Enter E-mail Address" required>
                     <button>Join Waitlist</button>
