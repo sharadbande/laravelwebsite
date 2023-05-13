@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>laraWeb</title>
 </head>
 <body>
 
@@ -14,12 +14,12 @@
         <nav>
             <div class="nav-main">
                 <div class="nav-logo">
-                    <a href="index.html"><img src="https://rvs-hosterr-waitlist-page.vercel.app/Assets/Logo.svg" alt=""> <span>Hosterr is hiring!</span></a>
+                    <a href="index.html"><img src="https://rvs-hosterr-waitlist-page.vercel.app/Assets/Logo.svg" alt=""> <span>LaraWeb is hiring!</span></a>
                 </div>
                 <ul>
-                    <li><a href="#">Plans</a></li>
-                    <li><a href="#">Find Domain</a></li>
-                    <li><a href="#">Why Hosterr</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Gallery</a></li>
                 </ul>
                 <ul>
                     <li><a href="#">Sign in</a></li>
